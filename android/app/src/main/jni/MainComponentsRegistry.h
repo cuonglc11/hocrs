@@ -13,7 +13,7 @@ class MainComponentsRegistry
  public:
   // Adapt it to the package you used for your Java class.
   constexpr static auto kJavaDescriptor =
-      "Lcom/hocreduxthunk/newarchitecture/components/MainComponentsRegistry;";
+      "Lcom/redux1/newarchitecture/components/MainComponentsRegistry;";
 
   static void registerNatives();
 
